@@ -11,7 +11,7 @@ This project demonstrates how to use **Delta Lake** as a standalone data storage
 ## **Project Flow Diagram**
 Below is a diagram illustrating the flow of data in the project:
 
-![Project Flow Diagram](project_flow.png)
+
 
 ---
 
@@ -68,17 +68,11 @@ The app will be available at `http://localhost:8501`.
 ## **Project Flow Diagram**
 Below is a diagram illustrating the flow of data in the project:
 
-![Project Flow Diagram](project_flow.png)
+![Project Flow Diagram]
 
 ---
 
-## **Contributing**
-Feel free to contribute to this project by opening issues or submitting pull requests.
-
----
-
-## **License**
-This project is licensed under the MIT License.
+.
 ```
 
 ---
