@@ -1,0 +1,7 @@
+deltalake
+django
+djangorestframework
+streamlit
+pandas
+numpy
+plotly
